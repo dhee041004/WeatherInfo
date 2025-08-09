@@ -1,0 +1,13 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;    
+}
+.form{
+    text-align: center  ;
+    color: aliceblue;
+}
+.heading{
+    color: black;
+    
+}
